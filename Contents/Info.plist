@@ -3,15 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleExecutable</key>
-	<string>cairo</string>
+	<string>dawn</string>
 	<key>CFBundleGetInfoString</key>
-	<string>Cairo</string>
+	<string>Dawn</string>
 	<key>CFBundleIconFile</key>
-	<string>cairo.icns</string>
+	<string>dawn.icns</string>
 	<key>CFBundleIdentifier</key>
-	<string>Cairo</string>
+	<string>Dawn</string>
 	<key>CFBundleName</key>
-	<string>Cairo</string>
+	<string>Dawn</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 </dict>
